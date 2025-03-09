@@ -87,6 +87,7 @@ body {
     color: var(--text-color);
 }
 .deals-section h3 {
+    margin-bottom: 5px;
     font-size: 1.5rem;
     color: var(--text-color);
 }
