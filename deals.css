@@ -86,7 +86,10 @@ body {
     font-size: 2rem;
     color: var(--text-color);
 }
-
+.deals-section h3 {
+    font-size: 1.5rem;
+    color: var(--text-color);
+}
 .deals-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
